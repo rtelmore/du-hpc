@@ -52,6 +52,7 @@ If you are *absolutely sure* that your application will successfully
 and correctly survive a call to fork(), you may disable this warning
 by setting the mpi_warn_on_fork MCA parameter to 0.
 _______________________________________________________________________________
+## Stopped install here
 
 install.packages("pbdBASE",
 				  repos = "http://streaming.stat.iastate.edu/CRAN/",
